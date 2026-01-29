@@ -1,0 +1,1 @@
+{"version":3,"file":"scraperController.d.ts","sourceRoot":"","sources":["../../src/controllers/scraperController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,YAAY,EAAE,MAAM,SAAS,CAAC;AAM1D,eAAO,MAAM,iBAAiB;2BAEC,OAAO,OAAO,QAAQ,QAAQ,YAAY;0BAiD3C,OAAO,OAAO,QAAQ,QAAQ,YAAY;uBAqB7C,OAAO,OAAO,QAAQ,QAAQ,YAAY;mBAmB9C,OAAO,OAAO,QAAQ,QAAQ,YAAY;CAyBhE,CAAC"}

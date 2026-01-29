@@ -1,0 +1,1 @@
+{"version":3,"file":"statsController.d.ts","sourceRoot":"","sources":["../../src/controllers/statsController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,YAAY,EAAE,MAAM,SAAS,CAAC;AAI1D,eAAO,MAAM,eAAe;2BAEG,OAAO,OAAO,QAAQ,QAAQ,YAAY;wBA+G7C,OAAO,OAAO,QAAQ,QAAQ,YAAY;wBAyC1C,OAAO,OAAO,QAAQ,QAAQ,YAAY;+BAyCnC,OAAO,OAAO,QAAQ,QAAQ,YAAY;CA6B5E,CAAC"}

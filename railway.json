@@ -1,0 +1,29 @@
+{
+  "$schema": "https://railway.app/schema.json",
+  "build": {
+    "builder": "NIXPACKS",
+    "options": {
+      "startCommand": "npm run build && npm start"
+    }
+  },
+  "deploy": {
+    "startCommand": "npm start",
+    "healthcheckPath": "/api/health",
+    "healthcheckTimeout": 30,
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 3
+  },
+  "env": {
+    "group": "default",
+    "variables": {
+      "NODE_ENV": "production",
+      "PORT": "3001"
+    }
+  },
+  "domains": [
+    {
+      "name": "smartbet-analytics.up.railway.app",
+      "environment": "production"
+    }
+  ]
+}
